@@ -148,7 +148,7 @@ class siamese_similarity():
 ############################################
 #use
 ###########################################
-caffe_model='model/_iter_90000.caffemodel' #this model must be copied from "/workspace/zo/SimNet_VGG_16_2_finetune_all/snapshots/ for a given iteration:10000,20000....
+caffe_model='model/_iter_90000.caffemodel' #
 caffe_deploy='model/Siamese_VGG_16_layers_2_deploy.prototxt' #same file (not changed)
 mean_file='model/ilsvrc_2012_mean.npy' #to noramlize image
 data_base_retrival='retrival_data_base.txt'  #lis of retrival image "sarenza" forma ".jpg"  or ".jpeg" 
