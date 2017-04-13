@@ -1,5 +1,5 @@
 # Similarity_images
-This project is to find similair images using deep learning(saimese network)
+This project is to find similair images using the deep learning(saimese network)
 
 In this folder you will find:
 
